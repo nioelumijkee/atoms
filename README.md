@@ -1,1 +1,1 @@
-### Atoms - view molecular structures.
+### Atoms - simple visualization of crystal lattices. 
